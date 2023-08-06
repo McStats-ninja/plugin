@@ -1,0 +1,3 @@
+name: McStatsNinja
+main: ninja.mcstats.bukkit.BukkitStatsNinja
+version: %version%
